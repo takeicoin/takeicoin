@@ -331,6 +331,13 @@
         </widget>
        </item>
        <item>
+        <widget class="QPushButton" name="pushButtonChat">
+         <property name="text">
+          <string>Chat on TakeiChat.com</string>
+         </property>
+        </widget>
+       </item>	   
+       <item>
         <spacer name="verticalSpacer_2">
          <property name="orientation">
           <enum>Qt::Vertical</enum>

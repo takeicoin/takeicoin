@@ -221,3 +221,10 @@ void OverviewPage::on_pushButton_clicked()
     QDesktopServices::openUrl(QUrl(link));
 
 }
+
+void OverviewPage::on_pushButtonChat_clicked()
+{
+    QString link="http://takeichat.com/";
+    QDesktopServices::openUrl(QUrl(link));
+
+}
