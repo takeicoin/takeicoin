@@ -1,6 +1,6 @@
-TAKEICOIN
+TAKCOIN
 ---------
-TakeiCoin was created in hopes of using cryptocurrencies to better the world. By using the power of press and
+TAKCoin was created in hopes of using cryptocurrencies to better the world. By using the power of press and
 massive global online communities we hope to tackle and support issues that affect all of us. We believe in 
 peace, liberty and the rights of everyone.
 
@@ -17,9 +17,8 @@ RPC PORT: 35697
 P2P PORT: 35698
 
 Block Spacing: 30 seconds
-Difficulty Retarget: 5 blocks
+Difficulty Retarget: Kimoto Gravity Well
 
 CONTACT
 -------
-contact@takeicoin.com
 
