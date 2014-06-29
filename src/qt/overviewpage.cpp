@@ -217,14 +217,14 @@ void OverviewPage::showOutOfSyncWarning(bool fShow)
 
 void OverviewPage::on_pushButton_clicked()
 {
-    QString link="http://takeicoin.org/fundraiser";
+    QString link="http://takcoin.bounceme.net/donate";
     QDesktopServices::openUrl(QUrl(link));
 
 }
 
 void OverviewPage::on_pushButtonChat_clicked()
 {
-    QString link="http://takeichat.com/";
+    QString link="http://takcoin.bounceme.net/chat";
     QDesktopServices::openUrl(QUrl(link));
 
 }
