@@ -161,10 +161,10 @@ Value getwork(const Array& params, bool fHelp)
             "If [data] is specified, tries to solve the block and returns true if it was successful.");
 
     if (vNodes.empty())
-        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "TakeiCoin is not connected!");
+        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "TAKCoin is not connected!");
 
     if (IsInitialBlockDownload())
-        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "TakeiCoin is downloading blocks...");
+        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "TAKCoin is downloading blocks...");
 
     typedef map<uint256, pair<CBlock*, CScript> > mapNewBlock_t;
     static mapNewBlock_t mapNewBlock;    // FIXME: thread safety
@@ -302,10 +302,10 @@ Value getblocktemplate(const Array& params, bool fHelp)
         throw JSONRPCError(RPC_INVALID_PARAMETER, "Invalid mode");
 
     if (vNodes.empty())
-        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "TakeiCoin is not connected!");
+        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "TAKCoin is not connected!");
 
     if (IsInitialBlockDownload())
-        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "TakeiCoin is downloading blocks...");
+        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "TAKCoin is downloading blocks...");
 
     // Update block
     static unsigned int nTransactionsUpdatedLast;

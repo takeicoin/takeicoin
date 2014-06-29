@@ -35,7 +35,7 @@ bool AppInit(int argc, char* argv[])
         //
         // Parameters
         //
-        // If Qt is used, parameters/takeicoin.conf are parsed in qt/bitcoin.cpp's main()
+        // If Qt is used, parameters/takcoin.conf are parsed in qt/bitcoin.cpp's main()
         ParseParameters(argc, argv);
         if (!boost::filesystem::is_directory(GetDataDir(false)))
         {
@@ -46,13 +46,13 @@ bool AppInit(int argc, char* argv[])
 
         if (mapArgs.count("-?") || mapArgs.count("--help"))
         {
-            // First part of help message is specific to takeicoind / RPC client
-            std::string strUsage = _("TakeiCoin version") + " " + FormatFullVersion() + "\n\n" +
+            // First part of help message is specific to takcoind / RPC client
+            std::string strUsage = _("TAKCoin version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  takeicoind [options]                     " + "\n" +
-                  "  takeicoind [options] <command> [params]  " + _("Send command to -server or takeicoind") + "\n" +
-                  "  takeicoind [options] help                " + _("List commands") + "\n" +
-                  "  takeicoind [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  takcoind [options]                     " + "\n" +
+                  "  takcoind [options] <command> [params]  " + _("Send command to -server or takcoind") + "\n" +
+                  "  takcoind [options] help                " + _("List commands") + "\n" +
+                  "  takcoind [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage();
 
@@ -62,7 +62,7 @@ bool AppInit(int argc, char* argv[])
 
         // Command-line RPC
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "takeicoin:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "takcoin:"))
                 fCommandLine = true;
 
         if (fCommandLine)
@@ -129,7 +129,7 @@ int main(int argc, char* argv[])
     bool fRet = false;
     fHaveGUI = false;
 
-    // Connect takeicoind signal handlers
+    // Connect takcoind signal handlers
     noui_connect();
 
     fRet = AppInit(argc, argv);

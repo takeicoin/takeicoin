@@ -8,7 +8,7 @@ To Build
 	cd src/
 	make -f makefile.unix		# Headless bitcoin
 
-See [readme-qt.md](readme-qt.md) for instructions on building TakeiCoin-Qt, the graphical user interface.
+See [readme-qt.md](readme-qt.md) for instructions on building TAKCoin-Qt, the graphical user interface.
 
 Dependencies
 ---------------------

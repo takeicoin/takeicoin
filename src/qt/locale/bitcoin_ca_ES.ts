@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TakeiCoin</source>
-        <translation>Sobre TakeiCoin</translation>
+        <source>About TAKCoin</source>
+        <translation>Sobre TAKCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TakeiCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;TakeiCoin&lt;/b&gt; versió</translation>
+        <source>&lt;b&gt;TAKCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;TAKCoin&lt;/b&gt; versió</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The TakeiCoin developers</source>
+        <source>The TAKCoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your TakeiCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces TakeiCoin per a rebre pagaments. Pot interesar-te proveïr diferents adreces a cadascun dels enviadors així pots identificar qui et va pagant.</translation>
+        <source>These are your TAKCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces TAKCoin per a rebre pagaments. Pot interesar-te proveïr diferents adreces a cadascun dels enviadors així pots identificar qui et va pagant.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -77,8 +77,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TakeiCoin address</source>
-        <translation>Signa el missatge per provar que ets propietari de l&apos;adreça TakeiCoin</translation>
+        <source>Sign a message to prove you own a TAKCoin address</source>
+        <translation>Signa el missatge per provar que ets propietari de l&apos;adreça TAKCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -102,8 +102,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified TakeiCoin address</source>
-        <translation>Verificar un missatge per asegurar-se que ha estat signat amb una adreça TakeiCoin específica</translation>
+        <source>Verify a message to ensure it was signed with a specified TAKCoin address</source>
+        <translation>Verificar un missatge per asegurar-se que ha estat signat amb una adreça TAKCoin específica</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -117,8 +117,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your TakeiCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Aquestes són la seva adreça de TakeiCoin per enviar els pagaments. Sempre revisi la quantitat i l&apos;adreça del destinatari abans transferència de monedes.</translation>
+        <source>These are your TAKCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Aquestes són la seva adreça de TAKCoin per enviar els pagaments. Sempre revisi la quantitat i l&apos;adreça del destinatari abans transferència de monedes.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -270,8 +270,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>TakeiCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your takeicoins from being stolen by malware infecting your computer.</source>
-        <translation>TakeiCoin es tancarà ara per acabar el procés d&apos;encriptació. Recorda que encriptar el teu moneder no protegeix completament els teus takeicoins de ser robades per programari maliciós instal·lat al teu ordinador.</translation>
+        <source>TAKCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your takcoins from being stolen by malware infecting your computer.</source>
+        <translation>TAKCoin es tancarà ara per acabar el procés d&apos;encriptació. Recorda que encriptar el teu moneder no protegeix completament els teus takcoins de ser robades per programari maliciós instal·lat al teu ordinador.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -369,8 +369,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TakeiCoin</source>
-        <translation>Mostra informació sobre TakeiCoin</translation>
+        <source>Show information about TAKCoin</source>
+        <translation>Mostra informació sobre TAKCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -414,13 +414,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a TakeiCoin address</source>
-        <translation>Enviar monedes a una adreça TakeiCoin</translation>
+        <source>Send coins to a TAKCoin address</source>
+        <translation>Enviar monedes a una adreça TAKCoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for TakeiCoin</source>
-        <translation>Modificar les opcions de configuració per takeicoin</translation>
+        <source>Modify configuration options for TAKCoin</source>
+        <translation>Modificar les opcions de configuració per takcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -450,8 +450,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>TakeiCoin</source>
-        <translation>TakeiCoin</translation>
+        <source>TAKCoin</source>
+        <translation>TAKCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About TakeiCoin</source>
-        <translation>&amp;Sobre TakeiCoin</translation>
+        <source>&amp;About TAKCoin</source>
+        <translation>&amp;Sobre TAKCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -495,13 +495,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your TakeiCoin addresses to prove you own them</source>
-        <translation>Signa el missatges amb la seva adreça de TakeiCoin per provar que les poseeixes</translation>
+        <source>Sign messages with your TAKCoin addresses to prove you own them</source>
+        <translation>Signa el missatges amb la seva adreça de TAKCoin per provar que les poseeixes</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified TakeiCoin addresses</source>
-        <translation>Verificar els missatges per assegurar-te que han estat signades amb una adreça TakeiCoin específica.</translation>
+        <source>Verify messages to ensure they were signed with specified TAKCoin addresses</source>
+        <translation>Verificar els missatges per assegurar-te que han estat signades amb una adreça TAKCoin específica.</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -531,13 +531,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>TakeiCoin client</source>
-        <translation>Client TakeiCoin</translation>
+        <source>TAKCoin client</source>
+        <translation>Client TAKCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to TakeiCoin network</source>
-        <translation><numerusform>%n connexió activa a la xarxa TakeiCoin</numerusform><numerusform>%n connexions actives a la xarxa TakeiCoin</numerusform></translation>
+        <source>%n active connection(s) to TAKCoin network</source>
+        <translation><numerusform>%n connexió activa a la xarxa TAKCoin</numerusform><numerusform>%n connexions actives a la xarxa TAKCoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -647,8 +647,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid TakeiCoin address or malformed URI parameters.</source>
-        <translation>la URI no pot ser processada! Això es pot ser causat per una adreça TakeiCoin invalida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TAKCoin address or malformed URI parameters.</source>
+        <translation>la URI no pot ser processada! Això es pot ser causat per una adreça TAKCoin invalida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -662,8 +662,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. TakeiCoin can no longer continue safely and will quit.</source>
-        <translation>Ha tingut lloc un error fatal. TakeiCoin no pot continuar executant-se de manera segura i es tancará.</translation>
+        <source>A fatal error occurred. TAKCoin can no longer continue safely and will quit.</source>
+        <translation>Ha tingut lloc un error fatal. TAKCoin no pot continuar executant-se de manera segura i es tancará.</translation>
     </message>
 </context>
 <context>
@@ -728,8 +728,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TakeiCoin address.</source>
-        <translation>L&apos;adreça introduida &quot;%1&quot; no és una adreça TakeiCoin valida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TAKCoin address.</source>
+        <translation>L&apos;adreça introduida &quot;%1&quot; no és una adreça TAKCoin valida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -747,8 +747,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>TakeiCoin-Qt</source>
-        <translation>TakeiCoin-Qt</translation>
+        <source>TAKCoin-Qt</source>
+        <translation>TAKCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -810,13 +810,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TakeiCoin after logging in to the system.</source>
-        <translation>Iniciar automàticament TakeiCoin després de l&apos;inici de sessió del sistema.</translation>
+        <source>Automatically start TAKCoin after logging in to the system.</source>
+        <translation>Iniciar automàticament TAKCoin després de l&apos;inici de sessió del sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TakeiCoin on system login</source>
-        <translation>&amp;Iniciar TakeiCoin al inici de sessió del sistema.</translation>
+        <source>&amp;Start TAKCoin on system login</source>
+        <translation>&amp;Iniciar TAKCoin al inici de sessió del sistema.</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -835,8 +835,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TakeiCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir el port del client de TakeiCoin al router de forma automàtica. Això només funciona quan el teu router implementa UPnP i l&apos;opció està activada.</translation>
+        <source>Automatically open the TAKCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir el port del client de TAKCoin al router de forma automàtica. Això només funciona quan el teu router implementa UPnP i l&apos;opció està activada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -845,8 +845,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TakeiCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connectar a la xarxa TakeiCoin a través de un SOCKS proxy (per exemple connectant a través de Tor).</translation>
+        <source>Connect to the TAKCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connectar a la xarxa TAKCoin a través de un SOCKS proxy (per exemple connectant a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -920,8 +920,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TakeiCoin.</source>
-        <translation>Aquí pots definir el llenguatge de l&apos;aplicatiu. Aquesta configuració tindrà efecte un cop es reiniciï TakeiCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TAKCoin.</source>
+        <translation>Aquí pots definir el llenguatge de l&apos;aplicatiu. Aquesta configuració tindrà efecte un cop es reiniciï TAKCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -935,8 +935,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TakeiCoin addresses in the transaction list or not.</source>
-        <translation>Mostrar adreces TakeiCoin als llistats de transaccions o no.</translation>
+        <source>Whether to show TAKCoin addresses in the transaction list or not.</source>
+        <translation>Mostrar adreces TAKCoin als llistats de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -987,8 +987,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TakeiCoin.</source>
-        <translation>Aquesta configuració tindrà efecte un cop es reiniciï TakeiCoin.</translation>
+        <source>This setting will take effect after restarting TAKCoin.</source>
+        <translation>Aquesta configuració tindrà efecte un cop es reiniciï TAKCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1006,8 +1006,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TakeiCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa TakeiCoin un cop s&apos;ha establert connexió, però aquest proces no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TAKCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa TAKCoin un cop s&apos;ha establert connexió, però aquest proces no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1060,8 +1060,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start takeicoin: click-to-pay handler</source>
-        <translation>No es pot iniciar takeicoin: manejador clicla-per-pagar</translation>
+        <source>Cannot start takcoin: click-to-pay handler</source>
+        <translation>No es pot iniciar takcoin: manejador clicla-per-pagar</translation>
     </message>
 </context>
 <context>
@@ -1210,8 +1210,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TakeiCoin-Qt help message to get a list with possible TakeiCoin command-line options.</source>
-        <translation>Mostrar el missatge d&apos;ajuda de TakeiCoin-Qt per a obtenir un llistat de possibles ordres per a la línia d&apos;ordres de TakeiCoin.</translation>
+        <source>Show the TAKCoin-Qt help message to get a list with possible TAKCoin command-line options.</source>
+        <translation>Mostrar el missatge d&apos;ajuda de TAKCoin-Qt per a obtenir un llistat de possibles ordres per a la línia d&apos;ordres de TAKCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1230,13 +1230,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>TakeiCoin - Debug window</source>
-        <translation>TakeiCoin -Finestra de debug</translation>
+        <source>TAKCoin - Debug window</source>
+        <translation>TAKCoin -Finestra de debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TakeiCoin Core</source>
-        <translation>Nucli de TakeiCoin</translation>
+        <source>TAKCoin Core</source>
+        <translation>Nucli de TAKCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1245,8 +1245,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TakeiCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obrir el dietari de debug de TakeiCoin del directori de dades actual. Aixó pot trigar uns quants segons per a dietàris grossos.</translation>
+        <source>Open the TAKCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obrir el dietari de debug de TAKCoin del directori de dades actual. Aixó pot trigar uns quants segons per a dietàris grossos.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1255,8 +1255,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the TakeiCoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de TakeiCoin</translation>
+        <source>Welcome to the TAKCoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de TAKCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1439,8 +1439,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TakeiCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introdueixi una adreça de TakeiCoin (per exemple 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a TAKCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Introdueixi una adreça de TAKCoin (per exemple 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1504,8 +1504,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TakeiCoin address</source>
-        <translation>Signa el missatge per provar que ets propietari d&apos;aquesta adreça TakeiCoin</translation>
+        <source>Sign the message to prove you own this TAKCoin address</source>
+        <translation>Signa el missatge per provar que ets propietari d&apos;aquesta adreça TAKCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1540,8 +1540,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TakeiCoin address</source>
-        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça TakeiCoin específica</translation>
+        <source>Verify the message to ensure it was signed with the specified TAKCoin address</source>
+        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça TAKCoin específica</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1556,8 +1556,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TakeiCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introdueixi una adreça de TakeiCoin (per exemple 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a TAKCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Introdueixi una adreça de TAKCoin (per exemple 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1566,8 +1566,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TakeiCoin signature</source>
-        <translation>Introduïr una clau TakeiCoin</translation>
+        <source>Enter TAKCoin signature</source>
+        <translation>Introduïr una clau TAKCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1640,7 +1640,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The TakeiCoin developers</source>
+        <source>The TAKCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2178,8 +2178,8 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>TakeiCoin version</source>
-        <translation>Versió de TakeiCoin</translation>
+        <source>TAKCoin version</source>
+        <translation>Versió de TAKCoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2188,8 +2188,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or takeicoind</source>
-        <translation>Enviar comanda a -servidor o takeicoind</translation>
+        <source>Send command to -server or takcoind</source>
+        <translation>Enviar comanda a -servidor o takcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2208,13 +2208,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: takeicoin.conf)</source>
-        <translation>Especificat arxiu de configuració (per defecte: takeicoin.conf)</translation>
+        <source>Specify configuration file (default: takcoin.conf)</source>
+        <translation>Especificat arxiu de configuració (per defecte: takcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: takeicoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: takeicoind.pid)</translation>
+        <source>Specify pid file (default: takcoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: takcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2291,15 +2291,15 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=takeicoinrpc
+rpcuser=takcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TAKCoin Alert&quot; admin@foo.com
 </source>
-        <translation>%s has de establir una contrasenya RPC a l&apos;arxiu de configuració:\n%s\nEs recomana que useu la següent constrasenya aleatòria:\nrpcuser=takeicoinrpc\nrpcpassword=%s\n(no necesiteu recordar aquesta contrsenya)\nEl nom d&apos;usuari i contrasenya NO HAN de ser els mateixos.\nSi l&apos;arxiu no existeix, crea&apos;l amb els permisos d&apos;arxiu de només lectura per al propietari.\nTambé es recomana establir la notificació d&apos;alertes i així seràs notificat de les incidències;\nper exemple: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@foo.com</translation>
+        <translation>%s has de establir una contrasenya RPC a l&apos;arxiu de configuració:\n%s\nEs recomana que useu la següent constrasenya aleatòria:\nrpcuser=takcoinrpc\nrpcpassword=%s\n(no necesiteu recordar aquesta contrsenya)\nEl nom d&apos;usuari i contrasenya NO HAN de ser els mateixos.\nSi l&apos;arxiu no existeix, crea&apos;l amb els permisos d&apos;arxiu de només lectura per al propietari.\nTambé es recomana establir la notificació d&apos;alertes i així seràs notificat de les incidències;\nper exemple: alertnotify=echo %%s | mail -s &quot;TAKCoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2313,8 +2313,8 @@ for example: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. TakeiCoin is probably already running.</source>
-        <translation>No es pot bloquejar el directori de dades %s. Probablement TakeiCoin ja estigui en execució.</translation>
+        <source>Cannot obtain a lock on data directory %s. TAKCoin is probably already running.</source>
+        <translation>No es pot bloquejar el directori de dades %s. Probablement TAKCoin ja estigui en execució.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2358,8 +2358,8 @@ for example: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TakeiCoin will not work properly.</source>
-        <translation>Advertència: Si us plau comprovi que la data i hora del seu computador siguin correctes! Si el seu rellotge està mal configurat, TakeiCoin no funcionará de manera apropiada.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TAKCoin will not work properly.</source>
+        <translation>Advertència: Si us plau comprovi que la data i hora del seu computador siguin correctes! Si el seu rellotge està mal configurat, TAKCoin no funcionará de manera apropiada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2608,8 +2608,8 @@ for example: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the TakeiCoin Wiki for SSL setup instructions)</source>
-        <translation>Opcions SSL: (veure la Wiki de TakeiCoin per a instruccions de configuració SSL)</translation>
+        <source>SSL options: (see the TAKCoin Wiki for SSL setup instructions)</source>
+        <translation>Opcions SSL: (veure la Wiki de TAKCoin per a instruccions de configuració SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2798,13 +2798,13 @@ for example: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TakeiCoin</source>
-        <translation>Error carregant wallet.dat: El moneder requereix una versió de TakeiCoin més moderna</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TAKCoin</source>
+        <translation>Error carregant wallet.dat: El moneder requereix una versió de TAKCoin més moderna</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart TakeiCoin to complete</source>
-        <translation>El moneder necesita ser re-escrit: re-inicia TakeiCoin per a completar la tasca</translation>
+        <source>Wallet needed to be rewritten: restart TAKCoin to complete</source>
+        <translation>El moneder necesita ser re-escrit: re-inicia TAKCoin per a completar la tasca</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2863,8 +2863,8 @@ for example: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. TakeiCoin is probably already running.</source>
-        <translation>Impossible d&apos;unir %s en aquest ordinador. Probablement TakeiCoin ja estigui en execució.</translation>
+        <source>Unable to bind to %s on this computer. TAKCoin is probably already running.</source>
+        <translation>Impossible d&apos;unir %s en aquest ordinador. Probablement TAKCoin ja estigui en execució.</translation>
     </message>
     <message>
         <location line="+64"/>

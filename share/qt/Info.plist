@@ -15,9 +15,9 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>TakeiCoin-Qt</string>
+	<string>TAKCoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.bitcoinfoundation.TakeiCoin-Qt</string>
+	<string>org.bitcoinfoundation.TAKCoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>

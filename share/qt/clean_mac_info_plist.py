@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # Jonas Schnelli, 2013
-# make sure the TakeiCoin-Qt.app contains the right plist (including the right version)
+# make sure the TAKCoin-Qt.app contains the right plist (including the right version)
 # fix made because of serval bugs in Qt mac deployment (https://bugreports.qt-project.org/browse/QTBUG-21267)
 
 from string import Template
@@ -9,7 +9,7 @@ from datetime import date
 bitcoinDir = "./";
 
 inFile     = bitcoinDir+"/share/qt/Info.plist"
-outFile    = "TakeiCoin-Qt.app/Contents/Info.plist"
+outFile    = "TAKCoin-Qt.app/Contents/Info.plist"
 version    = "unknown";
 
 fileForGrabbingVersion = bitcoinDir+"bitcoin-qt.pro"

@@ -1,7 +1,7 @@
 WINDOWS BUILD NOTES
 ===================
 
-See [readme-qt.md](readme-qt.md) for instructions on building TakeiCoin-Qt, the
+See [readme-qt.md](readme-qt.md) for instructions on building TAKCoin-Qt, the
 graphical user interface.
 
 Compilers Supported

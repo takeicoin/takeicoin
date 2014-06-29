@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("TakeiCoin");
-    case mBTC: return QString("MilliTakeiCoin (1 / 1,000)");
-    case uBTC: return QString("MicroTakeiCoin (1 / 1,000,000)");
+    case BTC: return QString("TAKCoin");
+    case mBTC: return QString("MilliTAKCoin (1 / 1,000)");
+    case uBTC: return QString("MicroTAKCoin (1 / 1,000,000)");
     default: return QString("???");
     }
 }

@@ -96,7 +96,7 @@ namespace GUIUtil
     bool GetStartOnSystemStartup();
     bool SetStartOnSystemStartup(bool fAutoStart);
 
-    /** Help message for TakeiCoin-Qt, shown with --help. */
+    /** Help message for TAKCoin-Qt, shown with --help. */
     class HelpMessageBox : public QMessageBox
     {
         Q_OBJECT

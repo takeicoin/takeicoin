@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TakeiCoin</source>
-        <translation>TakeiCoin hakkında</translation>
+        <source>About TAKCoin</source>
+        <translation>TAKCoin hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TakeiCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;TakeiCoin&lt;/b&gt; sürüm</translation>
+        <source>&lt;b&gt;TAKCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;TAKCoin&lt;/b&gt; sürüm</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The TakeiCoin developers</source>
-        <translation>TakeiCoin geliştiricileri</translation>
+        <source>The TAKCoin developers</source>
+        <translation>TAKCoin geliştiricileri</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your TakeiCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için TakeiCoin adresleridir. Kimin ödeme yaptığını izleyebilmek için her ödeme yollaması gereken kişiye değişik bir adres verebilirsiniz.</translation>
+        <source>These are your TAKCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için TAKCoin adresleridir. Kimin ödeme yaptığını izleyebilmek için her ödeme yollaması gereken kişiye değişik bir adres verebilirsiniz.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TakeiCoin address</source>
-        <translation>Bir TakeiCoin adresinin sizin olduğunu ispatlamak için mesaj imzalayın</translation>
+        <source>Sign a message to prove you own a TAKCoin address</source>
+        <translation>Bir TAKCoin adresinin sizin olduğunu ispatlamak için mesaj imzalayın</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified TakeiCoin address</source>
-        <translation>Belirtilen TakeiCoin adresi ile imzalandığını doğrulamak için bir mesajı kontrol et</translation>
+        <source>Verify a message to ensure it was signed with a specified TAKCoin address</source>
+        <translation>Belirtilen TAKCoin adresi ile imzalandığını doğrulamak için bir mesajı kontrol et</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your TakeiCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödeme yapmak için kullanacağınız TakeiCoin adreslerinizdir. TakeiCoin yollamadan önce meblağı ve alıcı adresini daima kontrol ediniz.</translation>
+        <source>These are your TAKCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Bunlar ödeme yapmak için kullanacağınız TAKCoin adreslerinizdir. TAKCoin yollamadan önce meblağı ve alıcı adresini daima kontrol ediniz.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>TakeiCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your takeicoins from being stolen by malware infecting your computer.</source>
-        <translation>Şifreleme işlemini tamamlamak için TakeiCoin şimdi kapanacaktır. Cüzdanınızı şifrelemenin, TakeiCoinlerinizin bilgisayara bulaşan kötücül bir yazılım tarafından çalınmaya karşı tamamen koruyamayacağını unutmayınız.</translation>
+        <source>TAKCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your takcoins from being stolen by malware infecting your computer.</source>
+        <translation>Şifreleme işlemini tamamlamak için TAKCoin şimdi kapanacaktır. Cüzdanınızı şifrelemenin, TAKCoinlerinizin bilgisayara bulaşan kötücül bir yazılım tarafından çalınmaya karşı tamamen koruyamayacağını unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TakeiCoin</source>
-        <translation>TakeiCoin hakkında bilgi göster</translation>
+        <source>Show information about TAKCoin</source>
+        <translation>TAKCoin hakkında bilgi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a TakeiCoin address</source>
-        <translation>Bir TakeiCoin adresine TakeiCoin yolla</translation>
+        <source>Send coins to a TAKCoin address</source>
+        <translation>Bir TAKCoin adresine TAKCoin yolla</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for TakeiCoin</source>
-        <translation>TakeiCoin seçeneklerinin yapılandırmasını değiştir</translation>
+        <source>Modify configuration options for TAKCoin</source>
+        <translation>TAKCoin seçeneklerinin yapılandırmasını değiştir</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>TakeiCoin</source>
-        <translation>TakeiCoin</translation>
+        <source>TAKCoin</source>
+        <translation>TAKCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About TakeiCoin</source>
-        <translation>TakeiCoin &amp;Hakkında</translation>
+        <source>&amp;About TAKCoin</source>
+        <translation>TAKCoin &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your TakeiCoin addresses to prove you own them</source>
-        <translation>Mesajları adreslerin size ait olduğunu ispatlamak için TakeiCoin adresleri ile imzala</translation>
+        <source>Sign messages with your TAKCoin addresses to prove you own them</source>
+        <translation>Mesajları adreslerin size ait olduğunu ispatlamak için TAKCoin adresleri ile imzala</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified TakeiCoin addresses</source>
-        <translation>Belirtilen TakeiCoin adresleri ile imzalandıklarından emin olmak için mesajları kontrol et</translation>
+        <source>Verify messages to ensure they were signed with specified TAKCoin addresses</source>
+        <translation>Belirtilen TAKCoin adresleri ile imzalandıklarından emin olmak için mesajları kontrol et</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>TakeiCoin client</source>
-        <translation>TakeiCoin istemcisi</translation>
+        <source>TAKCoin client</source>
+        <translation>TAKCoin istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to TakeiCoin network</source>
-        <translation><numerusform>TakeiCoin şebekesine %n faal bağlantı</numerusform><numerusform>TakeiCoin şebekesine %n faal bağlantı</numerusform></translation>
+        <source>%n active connection(s) to TAKCoin network</source>
+        <translation><numerusform>TAKCoin şebekesine %n faal bağlantı</numerusform><numerusform>TAKCoin şebekesine %n faal bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adres: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid TakeiCoin address or malformed URI parameters.</source>
-        <translation>URI okunamadı! Sebebi geçersiz bir TakeiCoin adresi veya hatalı URI parametreleri olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TAKCoin address or malformed URI parameters.</source>
+        <translation>URI okunamadı! Sebebi geçersiz bir TAKCoin adresi veya hatalı URI parametreleri olabilir.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. TakeiCoin can no longer continue safely and will quit.</source>
-        <translation>Ciddi bir hata oluştu. TakeiCoin artık güvenli bir şekilde işlemeye devam edemez ve kapanacaktır.</translation>
+        <source>A fatal error occurred. TAKCoin can no longer continue safely and will quit.</source>
+        <translation>Ciddi bir hata oluştu. TAKCoin artık güvenli bir şekilde işlemeye devam edemez ve kapanacaktır.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adres: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TakeiCoin address.</source>
-        <translation>Girilen &quot;%1&quot; adresi geçerli bir TakeiCoin adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TAKCoin address.</source>
+        <translation>Girilen &quot;%1&quot; adresi geçerli bir TAKCoin adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adres: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>TakeiCoin-Qt</source>
-        <translation>TakeiCoin-Qt</translation>
+        <source>TAKCoin-Qt</source>
+        <translation>TAKCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adres: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TakeiCoin after logging in to the system.</source>
-        <translation>Sistemde oturum açıldığında TakeiCoin&apos;i otomatik olarak başlat.</translation>
+        <source>Automatically start TAKCoin after logging in to the system.</source>
+        <translation>Sistemde oturum açıldığında TAKCoin&apos;i otomatik olarak başlat.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TakeiCoin on system login</source>
-        <translation>TakeiCoin&apos;i sistem oturumuyla &amp;başlat</translation>
+        <source>&amp;Start TAKCoin on system login</source>
+        <translation>TAKCoin&apos;i sistem oturumuyla &amp;başlat</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Adres: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TakeiCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönlendiricide TakeiCoin istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
+        <source>Automatically open the TAKCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönlendiricide TAKCoin istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TakeiCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>TakeiCoin şebekesine SOCKS vekil sunucusu vasıtasıyla bağlan (mesela Tor ile bağlanıldığında).</translation>
+        <source>Connect to the TAKCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>TAKCoin şebekesine SOCKS vekil sunucusu vasıtasıyla bağlan (mesela Tor ile bağlanıldığında).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adres: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TakeiCoin.</source>
-        <translation>Kullanıcı arayüzünün dili burada belirtilebilir. Bu ayar TakeiCoin tekrar başlatıldığında etkinleşecektir.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TAKCoin.</source>
+        <translation>Kullanıcı arayüzünün dili burada belirtilebilir. Bu ayar TAKCoin tekrar başlatıldığında etkinleşecektir.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -940,12 +940,12 @@ Adres: %4
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>TakeiCoin gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
+        <translation>TAKCoin gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TakeiCoin addresses in the transaction list or not.</source>
-        <translation>Muamele listesinde TakeiCoin adreslerinin gösterilip gösterilmeyeceklerini belirler.</translation>
+        <source>Whether to show TAKCoin addresses in the transaction list or not.</source>
+        <translation>Muamele listesinde TAKCoin adreslerinin gösterilip gösterilmeyeceklerini belirler.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adres: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TakeiCoin.</source>
-        <translation>Bu ayarlar TakeiCoin tekrar başlatıldığında etkinleşecektir.</translation>
+        <source>This setting will take effect after restarting TAKCoin.</source>
+        <translation>Bu ayarlar TAKCoin tekrar başlatıldığında etkinleşecektir.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,7 +1015,7 @@ Adres: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TakeiCoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TAKCoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Görüntülenen veriler zaman aşımına uğramış olabilir. Bağlantı kurulduğunda cüzdanınız otomatik olarak şebeke ile eşleşir ancak bu işlem henüz tamamlanmamıştır.</translation>
     </message>
     <message>
@@ -1069,8 +1069,8 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start takeicoin: click-to-pay handler</source>
-        <translation>TakeiCoin başlatılamadı: tıkla-ve-öde yöneticisi</translation>
+        <source>Cannot start takcoin: click-to-pay handler</source>
+        <translation>TAKCoin başlatılamadı: tıkla-ve-öde yöneticisi</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TakeiCoin-Qt help message to get a list with possible TakeiCoin command-line options.</source>
-        <translation>Mevcut TakeiCoin komut satırı seçeneklerinin listesini içeren TakeiCoin-Qt yardımını göster.</translation>
+        <source>Show the TAKCoin-Qt help message to get a list with possible TAKCoin command-line options.</source>
+        <translation>Mevcut TAKCoin komut satırı seçeneklerinin listesini içeren TAKCoin-Qt yardımını göster.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adres: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>TakeiCoin - Debug window</source>
-        <translation>TakeiCoin - Hata ayıklama penceresi</translation>
+        <source>TAKCoin - Debug window</source>
+        <translation>TAKCoin - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TakeiCoin Core</source>
-        <translation>TakeiCoin Çekirdeği</translation>
+        <source>TAKCoin Core</source>
+        <translation>TAKCoin Çekirdeği</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TakeiCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Güncel veri klasöründen TakeiCoin hata ayıklama kütük dosyasını açar. Büyük kütük dosyaları için bu birkaç saniye alabilir.</translation>
+        <source>Open the TAKCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Güncel veri klasöründen TAKCoin hata ayıklama kütük dosyasını açar. Büyük kütük dosyaları için bu birkaç saniye alabilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the TakeiCoin RPC console.</source>
-        <translation>TakeiCoin RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the TAKCoin RPC console.</source>
+        <translation>TAKCoin RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1290,7 +1290,7 @@ Adres: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>TakeiCoin yolla</translation>
+        <translation>TAKCoin yolla</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1448,8 +1448,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TakeiCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>TakeiCoin adresi giriniz (mesela 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a TAKCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>TAKCoin adresi giriniz (mesela 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TakeiCoin address</source>
-        <translation>Bu TakeiCoin adresinin sizin olduğunu ispatlamak için mesajı imzalayın</translation>
+        <source>Sign the message to prove you own this TAKCoin address</source>
+        <translation>Bu TAKCoin adresinin sizin olduğunu ispatlamak için mesajı imzalayın</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Adres: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TakeiCoin address</source>
-        <translation>Belirtilen TakeiCoin adresi ile imzalandığını doğrulamak için mesajı kontrol et</translation>
+        <source>Verify the message to ensure it was signed with the specified TAKCoin address</source>
+        <translation>Belirtilen TAKCoin adresi ile imzalandığını doğrulamak için mesajı kontrol et</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TakeiCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>TakeiCoin adresi giriniz (mesela 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a TAKCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>TAKCoin adresi giriniz (mesela 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adres: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TakeiCoin signature</source>
-        <translation>TakeiCoin imzası gir</translation>
+        <source>Enter TAKCoin signature</source>
+        <translation>TAKCoin imzası gir</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adres: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The TakeiCoin developers</source>
-        <translation>TakeiCoin geliştiricileri</translation>
+        <source>The TAKCoin developers</source>
+        <translation>TAKCoin geliştiricileri</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1784,7 +1784,7 @@ Adres: %4
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 120 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Oluşturulan TakeiCoin&apos;lerin harcanabilmelerinden önce 120 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu &quot;kabul edilmedi&quot; olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
+        <translation>Oluşturulan TAKCoin&apos;lerin harcanabilmelerinden önce 120 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu &quot;kabul edilmedi&quot; olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2137,7 +2137,7 @@ Adres: %4
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>TakeiCoin yolla</translation>
+        <translation>TAKCoin yolla</translation>
     </message>
 </context>
 <context>
@@ -2187,8 +2187,8 @@ Adres: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>TakeiCoin version</source>
-        <translation>TakeiCoin sürümü</translation>
+        <source>TAKCoin version</source>
+        <translation>TAKCoin sürümü</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Adres: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or takeicoind</source>
-        <translation>-server ya da takeicoind&apos;ye komut gönder</translation>
+        <source>Send command to -server or takcoind</source>
+        <translation>-server ya da takcoind&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Adres: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: takeicoin.conf)</source>
-        <translation>Yapılandırma dosyası belirt (varsayılan: takeicoin.conf)</translation>
+        <source>Specify configuration file (default: takcoin.conf)</source>
+        <translation>Yapılandırma dosyası belirt (varsayılan: takcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: takeicoind.pid)</source>
-        <translation>Pid dosyası belirt (varsayılan: takeicoind.pid)</translation>
+        <source>Specify pid file (default: takcoind.pid)</source>
+        <translation>Pid dosyası belirt (varsayılan: takcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,24 +2300,24 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=takeicoinrpc
+rpcuser=takcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TAKCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, şu yapılandırma dosyasında rpc parolası belirtmeniz gerekir:
 %s
 Aşağıdaki rastgele oluşturulan parolayı kullanmanız tavsiye edilir:
-rpcuser=takeicoinrpc
+rpcuser=takcoinrpc
 rpcpassword=%s
 (bu parolayı hatırlamanız gerekli değildir)
 Kullanıcı ismi ile parolanın FARKLI olmaları gerekir.
 Dosya mevcut değilse, sadece sahibi için okumayla sınırlı izin ile oluşturunuz.
 Sorunlar hakkında bildiri almak için alertnotify unsurunu ayarlamanız tavsiye edilir;
-mesela: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@foo.com
+mesela: alertnotify=echo %%s | mail -s &quot;TAKCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. TakeiCoin is probably already running.</source>
-        <translation>%s veri dizininde kilit elde edilemedi. TakeiCoin muhtemelen hâlihazırda çalışmaktadır.</translation>
+        <source>Cannot obtain a lock on data directory %s. TAKCoin is probably already running.</source>
+        <translation>%s veri dizininde kilit elde edilemedi. TAKCoin muhtemelen hâlihazırda çalışmaktadır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2363,7 +2363,7 @@ mesela: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@foo.com
     <message>
         <location line="+6"/>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - takeicoin oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
+        <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - takcoin oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2377,8 +2377,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TakeiCoin will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olup olmadığını kontrol ediniz! Saatiniz doğru değilse TakeiCoin gerektiği gibi çalışamaz.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TAKCoin will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olup olmadığını kontrol ediniz! Saatiniz doğru değilse TAKCoin gerektiği gibi çalışamaz.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2518,7 +2518,7 @@ mesela: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@foo.com
     <message>
         <location line="+1"/>
         <source>Generate coins (default: 0)</source>
-        <translation>TakeiCoin oluştur (varsayılan: 0)</translation>
+        <translation>TAKCoin oluştur (varsayılan: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2627,8 +2627,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the TakeiCoin Wiki for SSL setup instructions)</source>
-        <translation> SSL seçenekleri: (SSL kurulum bilgisi için TakeiCoin vikisine bakınız)</translation>
+        <source>SSL options: (see the TAKCoin Wiki for SSL setup instructions)</source>
+        <translation> SSL seçenekleri: (SSL kurulum bilgisi için TAKCoin vikisine bakınız)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ mesela: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TakeiCoin</source>
-        <translation>wallet.dat dosyasının yüklenmesinde hata oluştu: cüzdanın daha yeni bir TakeiCoin sürümüne ihtiyacı var</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TAKCoin</source>
+        <translation>wallet.dat dosyasının yüklenmesinde hata oluştu: cüzdanın daha yeni bir TAKCoin sürümüne ihtiyacı var</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart TakeiCoin to complete</source>
-        <translation>Cüzdanın tekrar yazılması gerekiyordu: işlemi tamamlamak için TakeiCoin&apos;i yeniden başlatınız</translation>
+        <source>Wallet needed to be rewritten: restart TAKCoin to complete</source>
+        <translation>Cüzdanın tekrar yazılması gerekiyordu: işlemi tamamlamak için TAKCoin&apos;i yeniden başlatınız</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. TakeiCoin is probably already running.</source>
-        <translation>Bu bilgisayarda %s unsuruna bağlanılamadı. TakeiCoin muhtemelen hâlihazırda çalışmaktadır.</translation>
+        <source>Unable to bind to %s on this computer. TAKCoin is probably already running.</source>
+        <translation>Bu bilgisayarda %s unsuruna bağlanılamadı. TAKCoin muhtemelen hâlihazırda çalışmaktadır.</translation>
     </message>
     <message>
         <location line="+64"/>

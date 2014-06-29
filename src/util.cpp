@@ -981,7 +981,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "takeicoin";
+    const char* pszModule = "takcoin";
 #endif
     if (pex)
         return strprintf(
@@ -1017,13 +1017,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\TakeiCoin
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\TakeiCoin
-    // Mac: ~/Library/Application Support/TakeiCoin
-    // Unix: ~/.takeicoin
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\TAKCoin
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\TAKCoin
+    // Mac: ~/Library/Application Support/TAKCoin
+    // Unix: ~/.takcoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "TakeiCoin";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "TAKCoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -1035,10 +1035,10 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "TakeiCoin";
+    return pathRet / "TAKCoin";
 #else
     // Unix
-    return pathRet / ".takeicoin";
+    return pathRet / ".takcoin";
 #endif
 #endif
 }
@@ -1079,7 +1079,7 @@ const boost::filesystem::path &GetDataDir(bool fNetSpecific)
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "takeicoin.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "takcoin.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
@@ -1089,7 +1089,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 {
     boost::filesystem::ifstream streamConfig(GetConfigFile());
     if (!streamConfig.good())
-        return; // No takeicoin.conf file is OK
+        return; // No takcoin.conf file is OK
 
     // clear path cache after loading config file
     fCachedPath[0] = fCachedPath[1] = false;
@@ -1099,7 +1099,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
     for (boost::program_options::detail::config_file_iterator it(streamConfig, setOptions), end; it != end; ++it)
     {
-        // Don't overwrite existing settings so command line settings override takeicoin.conf
+        // Don't overwrite existing settings so command line settings override takcoin.conf
         string strKey = string("-") + it->string_key;
         if (mapSettingsRet.count(strKey) == 0)
         {
@@ -1113,7 +1113,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "takeicoind.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "takcoind.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }
@@ -1337,7 +1337,7 @@ void AddTimeData(const CNetAddr& ip, int64 nTime)
                 if (!fMatch)
                 {
                     fDone = true;
-                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong TakeiCoin will not work properly.");
+                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong TAKCoin will not work properly.");
                     strMiscWarning = strMessage;
                     printf("*** %s\n", strMessage.c_str());
                     uiInterface.ThreadSafeMessageBox(strMessage, "", CClientUIInterface::MSG_WARNING);

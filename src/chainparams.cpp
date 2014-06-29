@@ -62,6 +62,7 @@ public:
         assert(hashGenesisBlock == uint256("0x00000b4923022e76d07598992d2116f9d965d2727ae1a0ca22e4ae92b2113d76"));
         assert(genesis.hashMerkleRoot == uint256("0x04af9967d26b4c56b6fde27579683692e4819ae6e7d90eb4afc847b0c53dcf98"));
 
+		vSeeds.push_back(CDNSSeedData("node.takeicoin.com", "node.takeicoin.com"));
         vSeeds.push_back(CDNSSeedData("takcoin.bounceme.net", "takcoin.bounceme.net"));
 
 
@@ -130,7 +131,7 @@ public:
 
         vFixedSeeds.clear();
         vSeeds.clear();
-        // vSeeds.push_back(CDNSSeedData("takeicoin.test", "test.takeicoin.org"));
+        // vSeeds.push_back(CDNSSeedData("takcoin.test", "test.takcoin.org"));
 
         base58Prefixes[PUBKEY_ADDRESS] = 130;
         base58Prefixes[SCRIPT_ADDRESS] = 30;

@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TakeiCoin</source>
-        <translation>TakeiCoinist</translation>
+        <source>About TAKCoin</source>
+        <translation>TAKCoinist</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TakeiCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;TakeiCoini&lt;/b&gt; versioon</translation>
+        <source>&lt;b&gt;TAKCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;TAKCoini&lt;/b&gt; versioon</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,7 +34,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+0"/>
-        <source>The TakeiCoin developers</source>
+        <source>The TAKCoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -67,8 +67,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your TakeiCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Maksete saamiseks kasutatavad TakeiCoini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
+        <source>These are your TAKCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Maksete saamiseks kasutatavad TAKCoini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,7 +82,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TakeiCoin address</source>
+        <source>Sign a message to prove you own a TAKCoin address</source>
         <translation>Allkirjasta sõnum, et tõestada Bitconi aadressi olemasolu.</translation>
     </message>
     <message>
@@ -107,8 +107,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified TakeiCoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud TakeiCoini aadressiga.</translation>
+        <source>Verify a message to ensure it was signed with a specified TAKCoin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud TAKCoini aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your TakeiCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu TakeiCoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
+        <source>These are your TAKCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu TAKCoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-56"/>
-        <source>TakeiCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your takeicoins from being stolen by malware infecting your computer.</source>
-        <translation>TakeiCoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista takeicoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
+        <source>TAKCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your takcoins from being stolen by malware infecting your computer.</source>
+        <translation>TAKCoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista takcoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TakeiCoin</source>
-        <translation>Kuva info TakeiCoini kohta</translation>
+        <source>Show information about TAKCoin</source>
+        <translation>Kuva info TAKCoini kohta</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a TakeiCoin address</source>
-        <translation>Saada münte TakeiCoini aadressile</translation>
+        <source>Send coins to a TAKCoin address</source>
+        <translation>Saada münte TAKCoini aadressile</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for TakeiCoin</source>
-        <translation>Muuda TakeiCoini seadeid</translation>
+        <source>Modify configuration options for TAKCoin</source>
+        <translation>Muuda TAKCoini seadeid</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>TakeiCoin</source>
-        <translation>TakeiCoin</translation>
+        <source>TAKCoin</source>
+        <translation>TAKCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About TakeiCoin</source>
-        <translation>%TakeiCoinist</translation>
+        <source>&amp;About TAKCoin</source>
+        <translation>%TAKCoinist</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your TakeiCoin addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma TakeiCoini aadressiga</translation>
+        <source>Sign messages with your TAKCoin addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma TAKCoini aadressiga</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified TakeiCoin addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud TakeiCoini aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified TAKCoin addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud TAKCoini aadressiga</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+47"/>
-        <source>TakeiCoin client</source>
-        <translation>TakeiCoini klient</translation>
+        <source>TAKCoin client</source>
+        <translation>TAKCoini klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to TakeiCoin network</source>
-        <translation><numerusform>%n aktiivne ühendus TakeiCoini võrku</numerusform><numerusform>%n aktiivset ühendust TakeiCoini võrku</numerusform></translation>
+        <source>%n active connection(s) to TAKCoin network</source>
+        <translation><numerusform>%n aktiivne ühendus TAKCoini võrku</numerusform><numerusform>%n aktiivset ühendust TAKCoini võrku</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid TakeiCoin address or malformed URI parameters.</source>
-        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu TakeiCoini aadress või vigased URI parameetrid.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TAKCoin address or malformed URI parameters.</source>
+        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu TAKCoini aadress või vigased URI parameetrid.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. TakeiCoin can no longer continue safely and will quit.</source>
-        <translation>Ilmnes kriitiline tõrge. TakeiCoin suletakse turvakaalutluste tõttu.</translation>
+        <source>A fatal error occurred. TAKCoin can no longer continue safely and will quit.</source>
+        <translation>Ilmnes kriitiline tõrge. TAKCoin suletakse turvakaalutluste tõttu.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TakeiCoin address.</source>
-        <translation>Sisestatud aadress &quot;%1&quot; ei ole TakeiCoinis kehtiv.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TAKCoin address.</source>
+        <translation>Sisestatud aadress &quot;%1&quot; ei ole TAKCoinis kehtiv.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>TakeiCoin-Qt</source>
-        <translation>TakeiCoini-Qt</translation>
+        <source>TAKCoin-Qt</source>
+        <translation>TAKCoini-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TakeiCoin after logging in to the system.</source>
-        <translation>Käivita TakeiCoin süsteemi logimisel.</translation>
+        <source>Automatically start TAKCoin after logging in to the system.</source>
+        <translation>Käivita TAKCoin süsteemi logimisel.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TakeiCoin on system login</source>
-        <translation>&amp;Start TakeiCoin sisselogimisel</translation>
+        <source>&amp;Start TAKCoin on system login</source>
+        <translation>&amp;Start TAKCoin sisselogimisel</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TakeiCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>TakeiCoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the TAKCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>TAKCoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TakeiCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Kasuta TakeiCoini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
+        <source>Connect to the TAKCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Kasuta TAKCoini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TakeiCoin.</source>
-        <translation>Kasutajaliidese keele valimise koht. Valik rakendub TakeiCoini käivitamisel.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TAKCoin.</source>
+        <translation>Kasutajaliidese keele valimise koht. Valik rakendub TAKCoini käivitamisel.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TakeiCoin addresses in the transaction list or not.</source>
-        <translation>Kuvada TakeiCoini aadress tehingute loetelus või mitte.</translation>
+        <source>Whether to show TAKCoin addresses in the transaction list or not.</source>
+        <translation>Kuvada TAKCoini aadress tehingute loetelus või mitte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TakeiCoin.</source>
-        <translation>Tehtud valik rakendub TakeiCoini käivitamisel.</translation>
+        <source>This setting will take effect after restarting TAKCoin.</source>
+        <translation>Tehtud valik rakendub TAKCoini käivitamisel.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,7 +1014,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TakeiCoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TAKCoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Bitconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -1068,8 +1068,8 @@ Aadress: %4⏎</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start takeicoin: click-to-pay handler</source>
-        <translation>TakeiCoin ei käivitu: vajuta-maksa toiming</translation>
+        <source>Cannot start takcoin: click-to-pay handler</source>
+        <translation>TAKCoin ei käivitu: vajuta-maksa toiming</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TakeiCoin-Qt help message to get a list with possible TakeiCoin command-line options.</source>
-        <translation>Näita kehtivate käsurea valikute kuvamiseks TakeiCoini-Qt abiteksti</translation>
+        <source>Show the TAKCoin-Qt help message to get a list with possible TAKCoin command-line options.</source>
+        <translation>Näita kehtivate käsurea valikute kuvamiseks TAKCoini-Qt abiteksti</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>TakeiCoin - Debug window</source>
-        <translation>TakeiCoin - debugimise aken</translation>
+        <source>TAKCoin - Debug window</source>
+        <translation>TAKCoin - debugimise aken</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TakeiCoin Core</source>
-        <translation>TakeiCoini tuumik</translation>
+        <source>TAKCoin Core</source>
+        <translation>TAKCoini tuumik</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TakeiCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ava TakeiCoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
+        <source>Open the TAKCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ava TAKCoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the TakeiCoin RPC console.</source>
-        <translation>Teretulemast TakeiCoini RPC konsooli.</translation>
+        <source>Welcome to the TAKCoin RPC console.</source>
+        <translation>Teretulemast TAKCoini RPC konsooli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TakeiCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Sisesta TakeiCoini aadress (nt: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a TAKCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Sisesta TAKCoini aadress (nt: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TakeiCoin address</source>
-        <translation>Allkirjasta sõnum TakeiCoini aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this TAKCoin address</source>
+        <translation>Allkirjasta sõnum TAKCoini aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TakeiCoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud TakeiCoini aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified TAKCoin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud TAKCoini aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TakeiCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Sisesta TakeiCoini aadress (nt: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a TAKCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Sisesta TAKCoini aadress (nt: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TakeiCoin signature</source>
-        <translation>Sisesta TakeiCoini allkiri</translation>
+        <source>Enter TAKCoin signature</source>
+        <translation>Sisesta TAKCoini allkiri</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,7 +1648,7 @@ Aadress: %4⏎</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The TakeiCoin developers</source>
+        <source>The TAKCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2186,8 +2186,8 @@ Aadress: %4⏎</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>TakeiCoin version</source>
-        <translation>TakeiCoini versioon</translation>
+        <source>TAKCoin version</source>
+        <translation>TAKCoini versioon</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or takeicoind</source>
-        <translation>Saada käsklus -serverile või takeicoindile</translation>
+        <source>Send command to -server or takcoind</source>
+        <translation>Saada käsklus -serverile või takcoindile</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: takeicoin.conf)</source>
-        <translation>Täpsusta sätete fail (vaikimisi: takeicoin.conf)</translation>
+        <source>Specify configuration file (default: takcoin.conf)</source>
+        <translation>Täpsusta sätete fail (vaikimisi: takcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: takeicoind.pid)</source>
-        <translation>Täpsusta PID fail (vaikimisi: takeicoin.pid)</translation>
+        <source>Specify pid file (default: takcoind.pid)</source>
+        <translation>Täpsusta PID fail (vaikimisi: takcoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Aadress: %4⏎</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=takeicoinrpc
+rpcuser=takcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TakeiCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TAKCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, sul tuleb rpcpassword määrata seadete failis:
 %s
 Soovitatav on kasutada järgmist juhuslikku parooli:
-rpcuser=takeicoinrpc
+rpcuser=takcoinrpc
 rpcpassword=%s
 (seda parooli ei pea meeles pidama)
 Kasutajanimi ning parool EI TOHI kattuda.
 Kui faili ei leita, loo see ainult-omaniku-loetavas failiõigustes .
 Soovitatav on seadistada tõrgete puhul teavitus;
-nt: alertnotify=echo %%s | email -s &quot;TakeiCoin Alert&quot; admin@foo.com
+nt: alertnotify=echo %%s | email -s &quot;TAKCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ nt: alertnotify=echo %%s | email -s &quot;TakeiCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. TakeiCoin is probably already running.</source>
-        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on TakeiCoin juba avatud.</translation>
+        <source>Cannot obtain a lock on data directory %s. TAKCoin is probably already running.</source>
+        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on TAKCoin juba avatud.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ nt: alertnotify=echo %%s | email -s &quot;TakeiCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TakeiCoin will not work properly.</source>
-        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis TakeiCoin ei tööta korralikult</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TAKCoin will not work properly.</source>
+        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis TAKCoin ei tööta korralikult</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ nt: alertnotify=echo %%s | email -s &quot;TakeiCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the TakeiCoin Wiki for SSL setup instructions)</source>
-        <translation>SSL valikud: (vaata TakeiCoini Wikist või SSL sätete juhendist)</translation>
+        <source>SSL options: (see the TAKCoin Wiki for SSL setup instructions)</source>
+        <translation>SSL valikud: (vaata TAKCoini Wikist või SSL sätete juhendist)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ nt: alertnotify=echo %%s | email -s &quot;TakeiCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TakeiCoin</source>
-        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab TakeiCoini uusimat versiooni</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TAKCoin</source>
+        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab TAKCoini uusimat versiooni</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart TakeiCoin to complete</source>
-        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita TakeiCoin</translation>
+        <source>Wallet needed to be rewritten: restart TAKCoin to complete</source>
+        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita TAKCoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ nt: alertnotify=echo %%s | email -s &quot;TakeiCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. TakeiCoin is probably already running.</source>
-        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. TakeiCoin juba töötab.</translation>
+        <source>Unable to bind to %s on this computer. TAKCoin is probably already running.</source>
+        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. TAKCoin juba töötab.</translation>
     </message>
     <message>
         <location line="+64"/>

@@ -147,10 +147,10 @@ OBJS= \
     obj/chainparams.o
 
 
-all: takeicoind
+all: takcoind
 
-test check: test_takeicoin FORCE
-	./test_takeicoin
+test check: test_takcoin FORCE
+	./test_takcoin
 
 #
 # LevelDB support
@@ -178,7 +178,7 @@ obj/%.o: %.cpp
 	      -e '/^$$/ d' -e 's/$$/ :/' < $(@:%.o=%.d) >> $(@:%.o=%.P); \
 	  rm -f $(@:%.o=%.d)
 
-takeicoind: $(OBJS:obj/%=obj/%)
+takcoind: $(OBJS:obj/%=obj/%)
 	$(LINK) $(xCXXFLAGS) -o $@ $^ $(xLDFLAGS) $(LIBS)
 
 TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
@@ -190,11 +190,11 @@ obj-test/%.o: test/%.cpp
 	      -e '/^$$/ d' -e 's/$$/ :/' < $(@:%.o=%.d) >> $(@:%.o=%.P); \
 	  rm -f $(@:%.o=%.d)
 
-test_takeicoin: $(TESTOBJS) $(filter-out obj/init.o obj/takeicoind.o,$(OBJS:obj/%=obj/%))
+test_takcoin: $(TESTOBJS) $(filter-out obj/init.o obj/takcoind.o,$(OBJS:obj/%=obj/%))
 	$(LINK) $(xCXXFLAGS) -o $@ $(LIBPATHS) $^ $(TESTLIBS) $(xLDFLAGS) $(LIBS)
 
 clean:
-	-rm -f takeicoind test_takeicoin
+	-rm -f takcoind test_takcoin
 	-rm -f obj/*.o
 	-rm -f obj-test/*.o
 	-rm -f obj/*.P

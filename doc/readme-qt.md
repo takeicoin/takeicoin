@@ -1,6 +1,6 @@
-TakeiCoin-Qt Readme
+TAKCoin-Qt Readme
 ===============================
-Contains build and configuration instructions for TakeiCoin-Qt (Qt4 GUI for Bitcoin).
+Contains build and configuration instructions for TAKCoin-Qt (Qt4 GUI for Bitcoin).
 
 Build Instructions
 ---------------------

@@ -96,7 +96,7 @@ OBJS= \
     obj/txdb.o \
     obj/chainparams.o
 
-all: takeicoind.exe
+all: takcoind.exe
 
 DEFS += -I"$(CURDIR)/leveldb/include"
 DEFS += -I"$(CURDIR)/leveldb/helpers"
@@ -111,7 +111,7 @@ DEFS += -DHAVE_BUILD_INFO
 obj/%.o: %.cpp $(HEADERS)
 	$(CXX) -c $(xCXXFLAGS) -o $@ $<
 
-takeicoind.exe: $(OBJS:obj/%=obj/%)
+takcoind.exe: $(OBJS:obj/%=obj/%)
 	$(CXX) $(xCXXFLAGS) $(xLDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
@@ -119,15 +119,15 @@ TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
 obj-test/%.o: test/%.cpp $(HEADERS)
 	$(CXX) -c $(TESTDEFS) $(xCXXFLAGS) -o $@ $<
 
-test_takeicoin.exe: $(TESTOBJS) $(filter-out obj/init.o obj/takeicoind.o,$(OBJS:obj/%=obj/%))
+test_takcoin.exe: $(TESTOBJS) $(filter-out obj/init.o obj/takcoind.o,$(OBJS:obj/%=obj/%))
 	$(CXX) $(xCXXFLAGS) $(xLDFLAGS) -o $@ $(LIBPATHS) $^ -lboost_unit_test_framework-mt-s $(LIBS)
 
 
 clean:
 	-rm -f obj/*.o
-	-rm -f takeicoind.exe
+	-rm -f takcoind.exe
 	-rm -f obj-test/*.o
-	-rm -f test_takeicoin.exe
+	-rm -f test_takcoin.exe
 	-rm -f obj/build.h
 	cd leveldb && TARGET_OS=OS_WINDOWS_CROSSCOMPILE $(MAKE) clean && cd ..
 

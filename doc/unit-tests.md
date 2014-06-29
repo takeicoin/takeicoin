@@ -19,10 +19,10 @@ implement new BOOST_AUTO_TEST_SUITE sections (the makefiles are
 set up to add test/*.cpp to test_bitcoin automatically).
 
 
-Compiling/running TakeiCoin-Qt unit tests
+Compiling/running TAKCoin-Qt unit tests
 ---------------------------------------
 
-TakeiCoin-Qt unit tests are in the src/qt/test/ directory; they
+TAKCoin-Qt unit tests are in the src/qt/test/ directory; they
 use the Qt unit-testing framework.
 
 To compile and run the tests:

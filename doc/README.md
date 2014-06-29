@@ -18,11 +18,11 @@ with each other, with the help of a P2P network to check for double-spending.
 
 Setup
 ---------------------
-[TakeiCoin-Qt](http://bitcoin.org/en/download) is the original Bitcoin client and it builds the backbone of the network. However, it downloads and stores the entire history of Bitcoin transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+[TAKCoin-Qt](http://bitcoin.org/en/download) is the original Bitcoin client and it builds the backbone of the network. However, it downloads and stores the entire history of Bitcoin transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
 ### Unix
 
-You need the Qt4 run-time libraries to run TakeiCoin-Qt. On Debian or Ubuntu:
+You need the Qt4 run-time libraries to run TAKCoin-Qt. On Debian or Ubuntu:
 
 	sudo apt-get install libqtgui4
 
@@ -48,7 +48,7 @@ for help and more information.
 
 Building
 ---------------------
-- [TakeiCoin-Qt Readme](readme-qt.md)
+- [TAKCoin-Qt Readme](readme-qt.md)
 - [OSX Build Notes](build-osx.md)
 - [Unix Build Notes](build-unix.md)
 - [Windows Build Notes](build-msw.md)

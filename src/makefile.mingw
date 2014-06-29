@@ -105,10 +105,10 @@ OBJS= \
     obj/chainparams.o
 
 
-all: takeicoind.exe
+all: takcoind.exe
 
-test check: test_takeicoin.exe FORCE
-	test_takeicoin.exe
+test check: test_takcoin.exe FORCE
+	test_takcoin.exe
 
 #
 # LevelDB support
@@ -122,7 +122,7 @@ leveldb/libleveldb.a:
 obj/%.o: %.cpp $(HEADERS)
 	$(CXX) -c $(CFLAGS) -o $@ $<
 
-takeicoind.exe: $(OBJS:obj/%=obj/%)
+takcoind.exe: $(OBJS:obj/%=obj/%)
 	$(CXX) $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
@@ -130,11 +130,11 @@ TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
 obj-test/%.o: test/%.cpp $(HEADERS)
 	$(CXX) -c $(TESTDEFS) $(CFLAGS) -o $@ $<
 
-test_takeicoin.exe: $(TESTOBJS) $(filter-out obj/init.o obj/takeicoind.o,$(OBJS:obj/%=obj/%))
+test_takcoin.exe: $(TESTOBJS) $(filter-out obj/init.o obj/takcoind.o,$(OBJS:obj/%=obj/%))
 	$(CXX) $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ -lboost_unit_test_framework$(BOOST_SUFFIX) $(LIBS)
 
 clean:
-	rm -f takeicoind.exe test_takeicoin.exe
+	rm -f takcoind.exe test_takcoin.exe
 	rm -f obj/*
 	rm -f obj-test/*
 	cd leveldb && $(MAKE) TARGET_OS=NATIVE_WINDOWS clean && cd ..

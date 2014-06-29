@@ -108,7 +108,7 @@ static std::string Translate(const char* psz)
 static void handleRunawayException(std::exception *e)
 {
     PrintExceptionContinue(e, "Runaway exception");
-    QMessageBox::critical(0, "Runaway exception", BitcoinGUI::tr("A fatal error occurred. TakeiCoin can no longer continue safely and will quit.") + QString("\n\n") + QString::fromStdString(strMiscWarning));
+    QMessageBox::critical(0, "Runaway exception", BitcoinGUI::tr("A fatal error occurred. TAKCoin can no longer continue safely and will quit.") + QString("\n\n") + QString::fromStdString(strMiscWarning));
     exit(1);
 }
 
@@ -174,12 +174,12 @@ int main(int argc, char *argv[])
 
     // Application identification (must be set before OptionsModel is initialized,
     // as it is used to locate QSettings)
-    QApplication::setOrganizationName("TakeiCoin");
-    QApplication::setOrganizationDomain("takeicoin.org");
+    QApplication::setOrganizationName("TAKCoin");
+    QApplication::setOrganizationDomain("takcoin.org");
     if (GetBoolArg("-testnet", false)) // Separate UI settings for testnet
-        QApplication::setApplicationName("TakeiCoin-Qt-testnet");
+        QApplication::setApplicationName("TAKCoin-Qt-testnet");
     else
-        QApplication::setApplicationName("TakeiCoin-Qt");
+        QApplication::setApplicationName("TAKCoin-Qt");
 
     // Now that QSettings are accessible, initialize translations
     QTranslator qtTranslatorBase, qtTranslator, translatorBase, translator;
@@ -197,10 +197,10 @@ int main(int argc, char *argv[])
     // Install global event filter that makes sure that long tooltips can be word-wrapped
     app.installEventFilter(new GUIUtil::ToolTipToRichTextFilter(TOOLTIP_WRAP_THRESHOLD, &app));
 
-    // ... then takeicoin.conf:
+    // ... then takcoin.conf:
     if (!boost::filesystem::is_directory(GetDataDir(false)))
     {
-        QMessageBox::critical(0, QObject::tr("TakeiCoin"),
+        QMessageBox::critical(0, QObject::tr("TAKCoin"),
                               QObject::tr("Error: Specified data directory \"%1\" does not exist.").arg(QString::fromStdString(mapArgs["-datadir"])));
         return 1;
     }
@@ -282,7 +282,7 @@ int main(int argc, char *argv[])
                 }
 
                 // Now that initialization/startup is done, process any command-line
-                // takeicoin: URIs
+                // takcoin: URIs
                 QObject::connect(paymentServer, SIGNAL(receivedURI(QString)), &window, SLOT(handleURI(QString)));
                 QTimer::singleShot(100, paymentServer, SLOT(uiReady()));
 
@@ -293,7 +293,7 @@ int main(int argc, char *argv[])
                 window.removeAllWallets();
                 guiref = 0;
             }
-            // Shutdown the core and its threads, but don't exit TakeiCoin-Qt here
+            // Shutdown the core and its threads, but don't exit TAKCoin-Qt here
             threadGroup.interrupt_all();
             threadGroup.join_all();
             Shutdown();
